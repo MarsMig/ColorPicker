@@ -38,9 +38,9 @@ body {
 }
 
 #colors-list div {
-  height: 100px;
-  width: 100px;
-  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  border-radius: 60%;
   margin-top: 40px;
   transition: all 1s ease;
 }
